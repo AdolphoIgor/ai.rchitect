@@ -1,0 +1,15 @@
+**__pycache__/
+**.env
+.venv
+.idea
+.git
+.vscode 
+node_modules 
+poetry.lock 
+package-lock.json
+dist 
+build 
+*.pyc 
+.DS_Store 
+.qdrant_local 
+.llm_cache.json
